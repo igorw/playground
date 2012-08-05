@@ -27,7 +27,7 @@ function assertEquals {
 
 startTests
 
-assertEquals "Nothing interesting to see here, move on." "$(cat README.md)"
+assertEquals "This is pretty awesome!!11 I don't want to move on." "$(cat README.md)"
 assertEquals "this file is very useless" "$(cat useless-file)"
 
 endTests
