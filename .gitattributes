@@ -1,1 +1,3 @@
+Makefile export-ignore
+tests export-ignore
 useless-file export-ignore
